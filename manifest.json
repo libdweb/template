@@ -4,7 +4,7 @@
   "name": "libdweb-experiment",
   "applications": {
     "gecko": {
-        "id":"template@libdweb"
+      "id": "template@libdweb"
     }
   },
   "description":
