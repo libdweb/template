@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "@libdweb/web-ext": "latest",
-    "tape-ext": "^0.3.0",
+    "tape-ext": "latest",
     "prettier": "^1.9.2",
     "lint-staged": "^6.0.0"
   },
